@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title></title>
+</head>
+<body>
+	<h1>SUMAR</h1>
+	<form action="Sumar" method="post">
+		<p>Número 1: <input type="text" name="n1" /></p>
+		<p>Número 2: <input type="text" name="n2" /></p>
+	</form>
+</body>
+</html>
